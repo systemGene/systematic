@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(32, 30, 30);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    height: auto;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+
+section {
+    display: table;
+    clear: both;
+    content: "";
+}
+
+article {
+    float: left;
+    padding: 0px 15px;
+    background-color: rgb(32, 30, 30);
+    font-size: large;
+}
+
+p {
+    line-height: 0.6;
+}

@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(32, 30, 30);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    height: auto;
+    width: auto;
+    margin: 0;
+    padding: 1;
+    user-select: none;
+    display: block;
+    overflow: hidden;
+}
+header {
+    margin: 250px;
+    text-align: center;
+    font-size: xx-large;
+}
+h1 {
+    margin: 5px;
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+button {
+    color: white;
+    background-color: rgb(31, 30, 30);
+    border: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    font-size: large;
+    margin: 8px;
+    padding: 8px 10px;
+}
